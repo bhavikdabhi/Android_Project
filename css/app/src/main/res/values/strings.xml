@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IT Dipartment</string>
+    <string name="s1">Login</string>
+    <string name="s2">Register</string>
+    <string name="s3">save</string>
+    <string name="s4">Delete</string>
+    <string name="s5">Run</string>
+
+</resources>
